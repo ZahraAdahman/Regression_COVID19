@@ -1,7 +1,7 @@
 # COVID19 Linear Regression Project
 
 ## Project title: 
-'How does the trend of COVID19 cases relate to deaths?' - By Zahra Adahman, BSc,MBS.
+'How does the trend of COVID19 cases relate to deaths?' - By Zahra Adahman, BSc, MBS.
 
 #### Sept. 30th, 2020.
 
