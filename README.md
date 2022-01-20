@@ -1,7 +1,8 @@
-# COVID19 Linear Regression Project
+# Machine Learning Foundations:Exploratory Data Analysis course
+## COVID19 Linear Regression Project
 
 ## Project title: 
-'How does the trend of COVID19 cases relate to deaths?' - By Zahra Adahman, BSc, MBS.
+'How does the trend of COVID19 cases relate to deaths?' - By Zahra Adahman,.
 
 #### Sept. 30th, 2020.
 
