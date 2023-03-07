@@ -3,6 +3,7 @@
 
 ## Project title: 
 'How does the trend of COVID19 cases relate to deaths?' - By Zahra Adahman,.
+![image](https://user-images.githubusercontent.com/59964869/223543635-64a691ac-576b-40f2-984c-67148823e90c.png)
 
 #### Sept. 30th, 2020.
 
@@ -30,10 +31,15 @@ COVID19 data was obtained in July 2020 from Amazon Web Services (AWS) data excha
 center at UW Medicine, part of the University of Washington. The .csv file provides more COVID19 data from countries around the world.
 However, the fil e contains more detailed information of the United States of America (USA) and Canada by State/Province and country.
 
-## Example of Visualization 
+## Data Visualization 
 
 ![COVID_19_5](https://user-images.githubusercontent.com/59964869/97786655-6723d780-1b83-11eb-9b9a-c3b05625a592.png)
 
+## Linear regression modelling
+![image](https://user-images.githubusercontent.com/59964869/223544479-65830a24-e7d6-4426-9851-0bfcf7743d64.png)
+![image](https://user-images.githubusercontent.com/59964869/223544540-6f992d42-436b-4cbf-a27c-65fdf412350a.png)
+![image](https://user-images.githubusercontent.com/59964869/223544619-ea528a2b-3e62-4fb8-a152-9628ca8b21c7.png)
+![image](https://user-images.githubusercontent.com/59964869/223544733-faf594ff-67bd-45a6-9d3e-55fb2866eeaf.png)
 
 ## Conclusion
 * Considering the world COVID19 data to determine the linear relationship between the
